@@ -1,0 +1,14 @@
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\bin\Debug\Öğrenci Sınav Not Kayıt Sistemi.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\bin\Debug\Öğrenci Sınav Not Kayıt Sistemi.exe
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\bin\Debug\Öğrenci Sınav Not Kayıt Sistemi.pdb
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci Sınav Not Kayıt Sistemi.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci_Sınav_Not_Kayıt_Sistemi.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci_Sınav_Not_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci Sınav Not Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci Sınav Not Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci Sınav Not Kayıt Sistemi.exe
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci Sınav Not Kayıt Sistemi.pdb
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci_Sınav_Not_Kayıt_Sistemi.FrmNot.resources
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci_Sınav_Not_Kayıt_Sistemi.FrmProfil.resources
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci_Sınav_Not_Kayıt_Sistemi.FrmGiriş.resources
+C:\Users\profe\Desktop\Visual Projeler\Öğrenci Sınav Not Kayıt Sistemi\Öğrenci Sınav Not Kayıt Sistemi\obj\Debug\Öğrenci_Sınav_Not_Kayıt_Sistemi.FrmResim.resources
